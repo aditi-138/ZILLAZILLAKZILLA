@@ -17,14 +17,3 @@ public class SumDigits
     }
 }
         
-
-
-
-
-
-
-
-
-
-
-
